@@ -47,9 +47,9 @@ Hoje em dia trabalho tanto com Front-End quanto Back-End. No front, o que mais m
 </ul>
 
 
-<h2>Projetos em desenvolvimento</h2>
+<h2>Projetos</h2>
 <ul>
-<li>
+<!-- <li>
 <h3>Gerenciamento de Produtos</h3>
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 <p>Sistema desenvolvido para gerenciar estoque de produtos.</p>
@@ -57,7 +57,7 @@ Hoje em dia trabalho tanto com Front-End quanto Back-End. No front, o que mais m
 <p>Back-End: <a href="https://github.com/Felipe-Amorim-Dev/ProdutosApp">ProdutosApp</a></p>
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"> <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
 <p>Front-End: <a href="https://github.com/Felipe-Amorim-Dev/ProdutosWeb">ProdutosWeb</a></p>
-</li>
+</li> -->
 </ul>
 
 <h2>Contato:</h2>
