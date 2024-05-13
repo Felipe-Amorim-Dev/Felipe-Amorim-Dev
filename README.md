@@ -14,7 +14,8 @@ A porta de entrada na área de desenvolvimento começou pelo Front-End, onde com
 
 Hoje em dia trabalho tanto com Front-End quanto Back-End. No front, o que mais me atrai é construir layout que da vida a uma pagina web. Já no back, a construção da lógica do sistema e ver a interação entre Banco de dados, Aplicação e a interface web é fascinante, e mostra como cada elemento se encaixa, criando uma experiência unica para o usuário.   
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=Felipe-Amorim-Dev&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Amorim-Dev&layout=donut&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515)](https://github.com/Felipe-Amorim-Dev/github-readme-stats) <img src="https://github-readme-stats.vercel.app/api?username=Felipe-Amorim-Dev&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
 
 <h2>Principais tecnologias</h2>
 
@@ -35,7 +36,7 @@ Hoje em dia trabalho tanto com Front-End quanto Back-End. No front, o que mais m
 </li>
 </ul>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Amorim-Dev&layout=donut&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515)](https://github.com/Felipe-Amorim-Dev/github-readme-stats)
+
 
 <h2>Atualmente aprendendo</h2>
 
