@@ -36,8 +36,6 @@ Hoje em dia trabalho tanto com Front-End quanto Back-End. No front, o que mais m
 </li>
 </ul>
 
-
-
 <h2>Atualmente aprendendo</h2>
 
 <ul>
@@ -46,7 +44,6 @@ Hoje em dia trabalho tanto com Front-End quanto Back-End. No front, o que mais m
   <img src="https://img.shields.io/badge/Linguagem-JAVA-blue?logo=oracle&logoColor=red"/> <img src="https://img.shields.io/badge/Linguagem-Python-blue?logo=python"/> <img src="https://img.shields.io/badge/Banco_de_dados-MongoDB-blue?logo=mongodb"/> 
 </li>
 </ul>
-
 
 <h2>Projetos</h2>
 <ul>
@@ -59,6 +56,14 @@ Hoje em dia trabalho tanto com Front-End quanto Back-End. No front, o que mais m
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"> <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
 <p>Front-End: <a href="https://github.com/Felipe-Amorim-Dev/ProdutosWeb">ProdutosWeb</a></p>
 </li> -->
+</ul>
+
+<h2>Artigos publicados</h2>
+
+![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
+
+<ul>
+  <li><a href="https://dev.to/felipeamorimdev/classes-e-objetos-em-c-net-1l54">Classes e objetos em C#</a></li>
 </ul>
 
 <h2>Contato:</h2>
