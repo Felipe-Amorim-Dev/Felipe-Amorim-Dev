@@ -64,6 +64,7 @@ Hoje em dia trabalho tanto com Front-End quanto Back-End. No front, o que mais m
 
 <ul>
   <li><a href="https://dev.to/felipeamorimdev/classes-e-objetos-em-c-net-1l54">Classes e objetos em C#</a></li>
+  <li><a href="https://dev.to/felipeamorimdev/metodos-assincronos-uma-abordagem-no-desenvolvimento-de-software-3l0g">Métodos Assíncronos</a></li>
 </ul>
 
 <h2>Contato:</h2>
