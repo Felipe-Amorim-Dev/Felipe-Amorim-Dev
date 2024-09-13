@@ -1,8 +1,8 @@
-<h1>Seja bem-vindo ao meu GitHub! </h1>
+<h1>Seja bem-vindo ao meu GitHub! 👋</h1>
 
 <p>Olá! Eu sou <strong>Felipe Figueiredo Amorim</strong>, um desenvolvedor FullStack, utilizando as tecnologias <img style="border-radius: 5px;" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">, <img style="border-radius: 5px;" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">, <img style="border-radius: 5px;" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">. E estou sempre buscando desafios que me permitam expandir meu conhecimento e aprimorar minhas habilidades.</p>
 
-<h2>Sobre Mim</h2>
+<h2>💻 Sobre Mim</h2>
 
 <p>
 
@@ -17,7 +17,7 @@ Hoje em dia trabalho tanto com Front-End quanto Back-End. No front, o que mais m
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Amorim-Dev&layout=donut&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515)](https://github.com/Felipe-Amorim-Dev/github-readme-stats) <img src="https://github-readme-stats.vercel.app/api?username=Felipe-Amorim-Dev&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
 
-<h2>Principais tecnologias</h2>
+<h2>✅ Principais tecnologias</h2>
 
 <ul>
 <li>
@@ -36,7 +36,7 @@ Hoje em dia trabalho tanto com Front-End quanto Back-End. No front, o que mais m
 </li>
 </ul>
 
-<h2>Atualmente aprendendo</h2>
+<h2>🛠️ Atualmente aprendendo</h2>
 
 <ul>
 <li>
@@ -47,7 +47,7 @@ Hoje em dia trabalho tanto com Front-End quanto Back-End. No front, o que mais m
 
 ## 🚀 Projetos Publicados
 
-### <a href="https://www.listiFy.com.br">ListiFy</a>
+### ✨ <a href="https://www.listiFy.com.br">ListiFy</a>
 <a href="https://www.listiFy.com.br">www.listiFy.com.br</a>
 
 Um aplicativo de gerenciamento de itens, como CD's, DVD's, Revistas, Livros e muito mais.
@@ -59,7 +59,7 @@ Com filtro de busca em tempo real e componentes modulares em **Angular 16**. O p
 
 <hr>
 
-<h2>Artigos publicados</h2>
+<h2>📚 Artigos publicados</h2>
 
 ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
 
@@ -68,10 +68,10 @@ Com filtro de busca em tempo real e componentes modulares em **Angular 16**. O p
   <li><a href="https://dev.to/felipeamorimdev/metodos-assincronos-uma-abordagem-no-desenvolvimento-de-software-3l0g">Métodos Assíncronos</a></li>
 </ul>
 
-<h2>Contato:</h2>
+<h2>💬 Contato:</h2>
 
 <p/>
-Email: felipe.f.amorim@outlook.com
+📧 Email: felipe.f.amorim@outlook.com
 </p>
 
 <!-- <p style="display: flex; align-items: center; font-size: 16px;"><svg style="margin-right: 10px;" xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-linkedin" viewBox="0 0 16 16">
