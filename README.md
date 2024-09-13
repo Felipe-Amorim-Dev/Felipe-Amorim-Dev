@@ -45,18 +45,19 @@ Hoje em dia trabalho tanto com Front-End quanto Back-End. No front, o que mais m
 </li>
 </ul>
 
-<h2>Projetos</h2>
-<ul>
-<!-- <li>
-<h3>Gerenciamento de Produtos</h3>
-<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
-<p>Sistema desenvolvido para gerenciar estoque de produtos.</p>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"> <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
-<p>Back-End: <a href="https://github.com/Felipe-Amorim-Dev/ProdutosApp">ProdutosApp</a></p>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"> <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-<p>Front-End: <a href="https://github.com/Felipe-Amorim-Dev/ProdutosWeb">ProdutosWeb</a></p>
-</li> -->
-</ul>
+## 🚀 Projetos Publicados
+
+### <a href="https://www.listiFy.com.br">ListiFy</a>
+<a href="https://www.listiFy.com.br">www.listiFy.com.br</a>
+
+Um aplicativo de gerenciamento de itens, como CD's, DVD's, Revistas, Livros e muito mais.
+Com filtro de busca em tempo real e componentes modulares em **Angular 16**. O projeto inclui integração com backend via API REST e implementa boas práticas de design responsivo.
+
+- **Tecnologias**: .Net, SQLServer, Angular 16, TypeScript, TailwindCSS.
+  
+- **Funcionalidades**: Filtro por título, carrossel de imagens, pesquisa em tempo real.
+
+<hr>
 
 <h2>Artigos publicados</h2>
 
