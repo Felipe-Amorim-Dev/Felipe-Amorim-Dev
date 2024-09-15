@@ -36,7 +36,7 @@ Hoje em dia trabalho tanto com Front-End quanto Back-End. No front, o que mais m
 </li>
 </ul>
 
-<h2>🛠️ Atualmente aprendendo</h2>
+<h2>💡 Atualmente aprendendo</h2>
 
 <ul>
 <li>
@@ -59,7 +59,7 @@ Com filtro de busca em tempo real e componentes modulares em **Angular 16**. O p
 
 <hr>
 
-<h2>📚 Artigos publicados</h2>
+<h2>📝 Artigos publicados</h2>
 
 ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
 
