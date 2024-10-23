@@ -68,6 +68,7 @@ Com filtro de busca em tempo real e componentes modulares em **Angular 16**. O p
 <ul>
   <li><a href="https://dev.to/felipeamorimdev/classes-e-objetos-em-c-net-1l54">Classes e objetos em C#</a></li>
   <li><a href="https://dev.to/felipeamorimdev/metodos-assincronos-uma-abordagem-no-desenvolvimento-de-software-3l0g">Métodos Assíncronos</a></li>
+  <li><a href="https://dev.to/felipeamorimdev/o-que-e-lazy-loading-g1i">Lazy Loading</a></li>
 </ul>
 
 <h2>💬 Contato:</h2>
