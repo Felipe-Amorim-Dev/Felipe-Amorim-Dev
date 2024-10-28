@@ -1,8 +1,14 @@
-<h1>Seja bem-vindo ao meu GitHub! 👋</h1>
+<!--<h1>Seja bem-vindo ao meu GitHub! 👋</h1>-->
+
+[![Capa-Gut-Hub.jpg](https://i.postimg.cc/0QVsc7jQ/Capa-Gut-Hub.jpg)](https://postimg.cc/9RwKfRG5)
 
 <p>Olá! Eu sou <strong>Felipe Figueiredo Amorim</strong>, um desenvolvedor FullStack, utilizando as tecnologias <img style="border-radius: 5px;" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">, <img style="border-radius: 5px;" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">, <img style="border-radius: 5px;" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">. E estou sempre buscando desafios que me permitam expandir meu conhecimento e aprimorar minhas habilidades.</p>
 
-<h2>💻 Sobre Mim</h2>
+<p align="center">
+  <a href="#-sobre-mim">Sobre mim</a>
+</p>
+
+<h2 id="sobre">💻 Sobre Mim</h2>
 
 <p>
 
@@ -15,7 +21,9 @@ A porta de entrada na área de desenvolvimento começou pelo Front-End, onde com
 Hoje em dia trabalho tanto com Front-End quanto Back-End. No front, o que mais me atrai é construir layout que da vida a uma pagina web. Já no back, a construção da lógica do sistema e ver a interação entre Banco de dados, Aplicação e a interface web é fascinante, e mostra como cada elemento se encaixa, criando uma experiência unica para o usuário.   
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Felipe-Amorim-Dev&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Felipe-Amorim-Dev&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
+</p>
 
 <h2>✅ Principais tecnologias</h2>
 
