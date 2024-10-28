@@ -5,7 +5,10 @@
 <p>Olá! Eu sou <strong>Felipe Figueiredo Amorim</strong>, um desenvolvedor FullStack, utilizando as tecnologias <img style="border-radius: 5px;" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">, <img style="border-radius: 5px;" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">, <img style="border-radius: 5px;" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">. E estou sempre buscando desafios que me permitam expandir meu conhecimento e aprimorar minhas habilidades.</p>
 
 <p align="center">
-  <a href="#-sobre-mim">Sobre mim</a>
+  <a href="#sobre">Sobre</a> | <a href="#tecnologias">Tecnologias</a> | <a href="#projetos">Projetos</a> | <a href="#artigos">Artigos</a> 
+</p>
+<p align="center">
+  <a href="#contato">Contato</a>
 </p>
 
 <h2 id="sobre">💻 Sobre Mim</h2>
@@ -25,7 +28,7 @@ Hoje em dia trabalho tanto com Front-End quanto Back-End. No front, o que mais m
     <img src="https://github-readme-stats.vercel.app/api?username=Felipe-Amorim-Dev&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
 </p>
 
-<h2>✅ Principais tecnologias</h2>
+<h2 id="tecnologias">✅ Principais tecnologias</h2>
 
 <ul>
 <li>
@@ -55,7 +58,7 @@ Hoje em dia trabalho tanto com Front-End quanto Back-End. No front, o que mais m
 </li>
 </ul>
 
-## 🚀 Projetos Publicados
+<h2 id="projetos">🚀 Projetos Publicados</h2>
 
 ### ✨ <a href="https://www.listiFy.com.br">ListiFy</a>
 <a href="https://www.listiFy.com.br">www.listiFy.com.br</a>
@@ -69,7 +72,7 @@ Com filtro de busca em tempo real e componentes modulares em **Angular 16**. O p
 
 <hr>
 
-<h2>📝 Artigos publicados</h2>
+<h2 id="artigos">📝 Artigos publicados</h2>
 
 ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
 
@@ -79,7 +82,7 @@ Com filtro de busca em tempo real e componentes modulares em **Angular 16**. O p
   <li><a href="https://dev.to/felipeamorimdev/o-que-e-lazy-loading-g1i">Lazy Loading</a></li>
 </ul>
 
-<h2>💬 Contato:</h2>
+<h2 id="contato">💬 Contato:</h2>
 
 <p/>
 📧 Email: felipe.f.amorim@outlook.com
