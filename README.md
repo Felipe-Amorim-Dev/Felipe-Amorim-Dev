@@ -1,4 +1,3 @@
-<!--<h1>Seja bem-vindo ao meu GitHub! 👋</h1>-->
 
 [![Capa-Gut-Hub.jpg](https://i.postimg.cc/0QVsc7jQ/Capa-Gut-Hub.jpg)](https://postimg.cc/9RwKfRG5)
 
@@ -13,19 +12,27 @@
 
 <h2 id="sobre">💻 Sobre Mim</h2>
 
-<p>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+  
+<p align="left" style="text-align: justify;">
+  Minha jornada não começou na programação, mas sim como projetista cadista. No entanto, sempre tive um envolvimento com a tecnologia da informação (TI), seja projetando, programando ou montando sistemas. É uma área que sempre me atraiu.
+</p>
 
-Minha jornada não começou na programação, mas sim como projetista cadista. No entanto, sempre tive um envolvimento com a tecnologia da informação (TI), seja projetando, programando ou montando sistemas. É uma área que sempre me atraiu.
+<p align="left">
+  Além disso, minha trajetória inclui experiência em suporte em TI, desde o N1 até o N2. Tenho boa experiencia com hardware e servidores, realizando desde a substituição de peças como a placa mãe, memória e HDs, até a manutenção de servidores, incluindo a gestão do       Active Directory (AD) e o gerenciamento de backups do servidor de arquivos.
+</p>
 
-Além disso, minha trajetória inclui experiência em suporte em TI, desde o N1 até o N2. Tenho boa experiencia com hardware e servidores, realizando desde a substituição de peças como a placa mãe, memória e HDs, até a manutenção de servidores, incluindo a gestão do Active Directory (AD) e o gerenciamento de backups do servidor de arquivos.
+<p align="left">
+  A porta de entrada na área de desenvolvimento começou pelo Front-End, onde comecei com HTML e CSS, e posteriormente para o uso de Sass e JavaScript. Foi através da aplicação do JavaScript em projetos pessoais que tive meu primeiro contato mais profundo com uma          linguagem de programação.
+</p>
 
-A porta de entrada na área de desenvolvimento começou pelo Front-End, onde comecei com HTML e CSS, e posteriormente para o uso de Sass e JavaScript. Foi através da aplicação do JavaScript em projetos pessoais que tive meu primeiro contato mais profundo com uma linguagem de programação.
-
-Hoje em dia trabalho tanto com Front-End quanto Back-End. No front, o que mais me atrai é construir layout que da vida a uma pagina web. Já no back, a construção da lógica do sistema e ver a interação entre Banco de dados, Aplicação e a interface web é fascinante, e mostra como cada elemento se encaixa, criando uma experiência unica para o usuário.   
+<p align="left">
+  Hoje em dia trabalho tanto com Front-End quanto Back-End. No front, o que mais me atrai é construir layout que da vida a uma pagina web. Já no back, a construção da lógica do sistema e ver a interação entre Banco de dados, Aplicação e a interface web é fascinante, e    mostra como cada elemento se encaixa, criando uma experiência unica para o usuário.   
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Felipe-Amorim-Dev&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Felipe-Amorim-Dev&theme=default&show_icons=true" />     
+   <!-- <img src="https://github-readme-stats.vercel.app/api?username=Felipe-Amorim-Dev&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />-->
 </p>
 
 <h2 id="tecnologias">✅ Principais tecnologias</h2>
