@@ -97,7 +97,6 @@ Com filtro de busca em tempo real e componentes modulares em **Angular 16**. O p
   
 [![Linkedin](https://img.shields.io/badge/-Felipe_Figueiredo_Amorim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-amorim-dev/)](https://www.linkedin.com/in/felipe-amorim-dev/)
 [![Gmail Badge](https://img.shields.io/badge/-felipe.f.amorim@outlook.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipe.f.amorim@outlook.com)](mailto:felipe.f.amorim@outlook.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/Felipe-Amorim-Dev/Felipe-Amorim-Dev)
 
 </p>
 
