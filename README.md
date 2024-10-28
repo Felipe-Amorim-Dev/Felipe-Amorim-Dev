@@ -1,6 +1,8 @@
 
 [![Capa-Gut-Hub.jpg](https://i.postimg.cc/0QVsc7jQ/Capa-Gut-Hub.jpg)](https://postimg.cc/9RwKfRG5)
 
+![](https://komarev.com/ghpvc/?username=Felipe-Amorim-Dev&color=006bed)
+
 <p>Olá! Eu sou <strong>Felipe Figueiredo Amorim</strong>, um desenvolvedor FullStack, utilizando as tecnologias <img style="border-radius: 5px;" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">, <img style="border-radius: 5px;" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">, <img style="border-radius: 5px;" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">. E estou sempre buscando desafios que me permitam expandir meu conhecimento e aprimorar minhas habilidades.</p>
 
 <p align="center">
@@ -56,7 +58,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Amorim-Dev&layout=donut&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515)](https://github.com/Felipe-Amorim-Dev/github-readme-stats)
 
-<h2>💡 Atualmente aprendendo</h2>
+<h2>🌱 Atualmente aprendendo</h2>
 
 <ul>
 <li>
@@ -92,7 +94,11 @@ Com filtro de busca em tempo real e componentes modulares em **Angular 16**. O p
 <h2 id="contato">💬 Contato:</h2>
 
 <p/>
-📧 Email: felipe.f.amorim@outlook.com
+  
+[![Linkedin](https://img.shields.io/badge/-Felipe_Figueiredo_Amorim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-amorim-dev/)](https://www.linkedin.com/in/felipe-amorim-dev/)
+[![Gmail Badge](https://img.shields.io/badge/-felipe.f.amorim@outlook.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipe.f.amorim@outlook.com)](mailto:felipe.f.amorim@outlook.com)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/Felipe-Amorim-Dev/Felipe-Amorim-Dev)
+
 </p>
 
 <!-- <p style="display: flex; align-items: center; font-size: 16px;"><svg style="margin-right: 10px;" xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-linkedin" viewBox="0 0 16 16">
