@@ -56,7 +56,8 @@
 </li>
 </ul>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Amorim-Dev&layout=donut&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515)](https://github.com/Felipe-Amorim-Dev/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Amorim-Dev&layout=donut&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515)](https://github.com/Felipe-Amorim-Dev/github-readme-stats)-->
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Amorim-Dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>🌱 Atualmente aprendendo</h2>
 
