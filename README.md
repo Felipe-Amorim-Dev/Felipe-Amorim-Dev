@@ -1,5 +1,6 @@
 
-<img src="https://i.postimg.cc/BQGC4kWf/Gif-Lofi-Git-Hub.gif">
+<!--<img src="https://i.postimg.cc/BQGC4kWf/Gif-Lofi-Git-Hub.gif" alt="Capa" max-width="1920px" align="center">-->
+[![Gif-Lofi-Git-Hub.gif](https://i.postimg.cc/BQGC4kWf/Gif-Lofi-Git-Hub.gif)](https://postimg.cc/LhNPVy6x)
 
 ![](https://komarev.com/ghpvc/?username=Felipe-Amorim-Dev&color=006bed)
 
@@ -13,8 +14,6 @@
 </p>
 
 <h2 id="sobre">💻 Sobre Mim</h2>
-
-<!--<img src="https://i.postimg.cc/xCzZbHmh/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">-->
 
 <img src="https://i.postimg.cc/xCzZbHmh/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
