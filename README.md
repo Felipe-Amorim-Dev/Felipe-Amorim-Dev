@@ -1,5 +1,5 @@
 
-<img src="https://i.postimg.cc/BQGC4kWf/Gif-Lofi-Git-Hub.gif" alt="Capa" max-width="1920px" align="center">
+<img src="https://i.postimg.cc/BQGC4kWf/Gif-Lofi-Git-Hub.gif" alt="Capa" width="600px" height="400px" align="center">
 
 
 ![](https://komarev.com/ghpvc/?username=Felipe-Amorim-Dev&color=006bed)
