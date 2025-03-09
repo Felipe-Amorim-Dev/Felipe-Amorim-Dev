@@ -15,7 +15,7 @@
 
 <h2 id="sobre">💻 Sobre Mim</h2>
 
-<img src="https://i.postimg.cc/xCzZbHmh/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="src/assets/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left" style="text-align: justify;">
   Minha jornada não começou na programação, mas sim como projetista cadista. No entanto, sempre tive um envolvimento com a tecnologia da informação (TI), seja projetando, programando ou montando sistemas. É uma área que sempre me atraiu.
