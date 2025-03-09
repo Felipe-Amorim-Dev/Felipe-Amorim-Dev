@@ -1,5 +1,5 @@
 
-[![Gif-Lofi-Git-Hub.gif](https://i.postimg.cc/BQGC4kWf/Gif-Lofi-Git-Hub.gif)](https://postimg.cc/LhNPVy6x)
+<img src="https://i.postimg.cc/BQGC4kWf/Gif-Lofi-Git-Hub.gif">
 
 ![](https://komarev.com/ghpvc/?username=Felipe-Amorim-Dev&color=006bed)
 
