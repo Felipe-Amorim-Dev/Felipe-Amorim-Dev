@@ -1,5 +1,5 @@
 
-[![Capa-Gut-Hub.jpg](https://i.postimg.cc/0QVsc7jQ/Capa-Gut-Hub.jpg)](https://postimg.cc/9RwKfRG5)
+[![Gif-Lofi-Git-Hub.gif](https://i.postimg.cc/BQGC4kWf/Gif-Lofi-Git-Hub.gif)](https://postimg.cc/LhNPVy6x)
 
 ![](https://komarev.com/ghpvc/?username=Felipe-Amorim-Dev&color=006bed)
 
