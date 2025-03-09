@@ -1,6 +1,6 @@
 
-<!--<img src="https://i.postimg.cc/BQGC4kWf/Gif-Lofi-Git-Hub.gif" alt="Capa" max-width="1920px" align="center">-->
-[![Gif-Lofi-Git-Hub.gif](https://i.postimg.cc/BQGC4kWf/Gif-Lofi-Git-Hub.gif)](https://postimg.cc/LhNPVy6x)
+<img src="https://i.postimg.cc/BQGC4kWf/Gif-Lofi-Git-Hub.gif" alt="Capa" max-width="1920px" align="center">
+
 
 ![](https://komarev.com/ghpvc/?username=Felipe-Amorim-Dev&color=006bed)
 
