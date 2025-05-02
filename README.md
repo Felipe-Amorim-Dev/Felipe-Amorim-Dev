@@ -47,13 +47,17 @@
 </li>
 
 <li>
+  <img src="https://img.shields.io/badge/Linguagem-Java-yellow?logo=java&logoColor=yellow"/> <img src="https://img.shields.io/badge/Framework-Spring_boot-green?logo=springboot&logoColor=green"/> <img src="https://img.shields.io/badge/IDE-IntelliJ-red?logo=intellij&logoColor=red"/>
+</li>
+
+<li>
 <p style="font-size: 16px;">Front-End</p>
-<img src="https://img.shields.io/badge/Linguagem marckup-HTML_5-blue?logo=html5"/> <img src="https://img.shields.io/badge/Style_Sheet-CSS_3-blue?logo=css3&logoColor=blue"/> <img src="https://img.shields.io/badge/Script-SASS-blue?logo=sass"/> <img src="https://img.shields.io/badge/Script-JavaScript-blue?logo=javascript"/> <img src="https://img.shields.io/badge/Framework-Angular_16-blue?logo=angular&logoColor=red"/> <img src="https://img.shields.io/badge/IDE-Visual_Studio_Code-blue?logo=visualstudiocode&logoColor=blue"/>
+<img src="https://img.shields.io/badge/Linguagem marckup-HTML_5-blue?logo=html5"/> <img src="https://img.shields.io/badge/Style_Sheet-CSS_3-blue?logo=css3&logoColor=blue"/> <img src="https://img.shields.io/badge/Script-SASS-blue?logo=sass"/> <img src="https://img.shields.io/badge/Script-JavaScript-blue?logo=javascript"/> <img src="https://img.shields.io/badge/Framework-Angular_16-blue?logo=angular&logoColor=red"/> <img src="https://img.shields.io/badge/IDE-Visual_Studio_Code-blue?logo=visualstudiocode&logoColor=blue"/> <img src="https://img.shields.io/badge/Framework-Boot_Strap-blue?logo=bootstrap&logoColor=blue"/> <img src="https://img.shields.io/badge/Framework-Tail_Wind-blue?logo=tailwind&logoColor=blue"/>
 </li>
 
 <li>
 <p style="font-size: 16px;">Banco de dados</p>
-<img src="https://img.shields.io/badge/Relacional-Sql_Server-blue?logo=microsoftsqlserver"/>
+<img src="https://img.shields.io/badge/Relacional-Sql_Server-blue?logo=microsoftsqlserver"/> <img src="https://img.shields.io/badge/Relacional-My_Sql-blue?logo=mysql&logoColor=blue"/> <img src="https://img.shields.io/badge/Não_Relacional-Mongo_DB-green?logo=mongodbl&logoColor=green"/>
 </li>
 </ul>
 
@@ -65,7 +69,7 @@
 <ul>
 <li>
 <p style="font-size: 16px;">Back-End</p>
-  <img src="https://img.shields.io/badge/Linguagem-JAVA-blue?logo=oracle&logoColor=red"/> <img src="https://img.shields.io/badge/Linguagem-Python-blue?logo=python"/> <img src="https://img.shields.io/badge/Banco_de_dados-MongoDB-blue?logo=mongodb"/> 
+  <img src="https://img.shields.io/badge/Virtualização-Docker-blue?logo=docker&logoColor=blue"/> <img src="https://img.shields.io/badge/Virtualização-Kubernetes-blue?logo=kubernetes&logoColor=blue"/> <img src="https://img.shields.io/badge/Infraestrutura-Servidor_Linux-red?logo=linux&logoColor=yellow"/> 
 </li>
 </ul>
 
