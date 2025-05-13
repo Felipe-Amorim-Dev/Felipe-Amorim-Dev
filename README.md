@@ -28,20 +28,22 @@ Meu primeiro contato com o desenvolvimento veio através do front-end, com HTML 
 
 Hoje atuo tanto no front quanto no back-end, focando em criar soluções eficientes, responsivas e escaláveis.
 
-<br><br>
+### 🌐 Redes Sociais
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Felipe-Amorim-Dev&show_icons=true&theme=default" alt="GitHub Stats"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Amorim-Dev&layout=compact" alt="Top Languages"/>
-    </td>
-  </tr>
-</table>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe_Amorim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-amorim-dev/)
+[![Instagram](https://img.shields.io/badge/Instagram-@felipe.f.amorim.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipe.f.amorim.dev/)
+[![YouTube](https://img.shields.io/badge/YouTube-@Felipe--Amorim--Dev-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Felipe-Amorim-Dev)  
+  
+[![Dev.to](https://img.shields.io/badge/Dev.to-%40felipeamorimdev-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/felipeamorimdev)
+[![Figma](https://img.shields.io/badge/Figma-felipefamorim-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/@felipefamorim)
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=Felipe-Amorim-Dev&show_icons=true&theme=default" alt="GitHub Stats"/>
+
 
 <h2 id="tecnologias">✅ Tecnologias que utilizo</h2>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Amorim-Dev&layout=compact" alt="Top Languages" align="right"/>
 
 ### 🧠 Back-End
 <p>
