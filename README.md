@@ -87,6 +87,14 @@ Com filtro de busca em tempo real e componentes modulares em **Angular 16**. O p
 
 <hr>
 
+<h2 id="artigos">🖌️ Figma</h2>
+
+[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/@seuusuario)
+
+Explore meus projetos de UI/UX, protótipos interativos e layouts responsivos criados no Figma.  
+Design com propósito, foco em experiência e atenção aos detalhes.  
+➡️ **[Acesse meu portfólio no Figma](https://www.figma.com/@felipefamorim)**
+
 <h2 id="artigos">📝 Artigos publicados</h2>
 
 ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
