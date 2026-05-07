@@ -37,11 +37,11 @@ Hoje atuo tanto no front quanto no back-end, focando em criar soluções eficien
 [![Dev.to](https://img.shields.io/badge/Dev.to-%40felipeamorimdev-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/felipeamorimdev)
 [![Figma](https://img.shields.io/badge/Figma-felipefamorim-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/@felipefamorim)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Felipe-Amorim-Dev&show_icons=true&theme=default&count_private=true" alt="GitHub Stats"/>
+<img src="https://github-readme-stats-sigma-six-16.vercel.app/api?username=Felipe-Amorim-Dev&show_icons=true&theme=github_dark" alt="GitHub Stats"/>
 
 <h2 id="tecnologias">✅ Tecnologias que utilizo</h2>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Amorim-Dev&layout=compact&count_private=true" alt="Top Languages" align="right"/>
+<img src="https://github-readme-stats-sigma-six-16.vercel.app/api/top-langs/?username=Felipe-Amorim-Dev&layout=compact&theme=github_dark" alt="Top Languages" align="right"/>
 
 ### 🧠 Back-End
 <p>
