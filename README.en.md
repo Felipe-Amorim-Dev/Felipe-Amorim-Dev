@@ -26,6 +26,25 @@ I develop and maintain applications, REST APIs, integrations and database soluti
 - [CAD-Viewer](https://github.com/Felipe-Amorim-Dev/CAD-Viewer) — Web Component 3D em TypeScript
 - [WindowsIntegrityGuard](https://github.com/Felipe-Amorim-Dev/WindowsIntegrityGuard) — Verificação de integridade no Windows
 
+## 🧭 Portfolio by engineering area
+
+These repositories illustrate different architectural choices across several types of software.
+
+| Area | Project | Technical focus |
+| --- | --- | --- |
+| Microservices | [Personal Finance Identity Service](https://github.com/Felipe-Amorim-Dev/personal-finance-identity-service) | Host/API/Application/Domain/Infrastructure separation, EF Core, MySQL, JWT and outbox |
+| API integration | [API Gateway](https://github.com/Felipe-Amorim-Dev/APIGateway) | YARP reverse proxy, authentication and routing |
+| Full Stack | [ListiFy](https://github.com/Felipe-Amorim-Dev/ListiFy.Api) | .NET backend, SQL Server and Angular frontend |
+| NoSQL persistence | [ShortMyUrl](https://github.com/Felipe-Amorim-Dev/ShortMyUrl-DOTNET) | URL shortening, MongoDB and Docker Compose |
+| Libraries | [CAD Viewer](https://github.com/Felipe-Amorim-Dev/CAD-Viewer) | Web Components, Three.js and public 3D viewer API |
+| Windows applications | [Windows Integrity Guard](https://github.com/Felipe-Amorim-Dev/WindowsIntegrityGuard) | .NET Worker Service, WPF, Named Pipes and SFC/DISM flow |
+
+### Project organization
+
+Systems that have frontend and backend components maintain separate repositories with integration documentation. Windows Integrity Guard uses an umbrella repository with Git submodules; Personal Finance Platform organizes the architecture and its evolving services. Every repository covers its layers, components, setup and technologies.
+
+Corporate work is independent of these public projects and does not include confidential code or implementation details.
+
 <a id="licenca"></a>
 ## 📄 License
 
