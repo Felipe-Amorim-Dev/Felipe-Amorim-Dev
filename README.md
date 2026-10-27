@@ -1,27 +1,41 @@
-# Felipe Figueiredo Amorim
+<h1 align="center">👋 Felipe Figueiredo Amorim</h1>
 
-**Software Engineer | C# · .NET · Angular | Data Engineering**
+<p align="center"><em>Desenvolvedor Full Stack com foco em C#, .NET, Angular e Engenharia de Dados.</em></p>
 
-[LinkedIn](https://www.linkedin.com/in/felipe-amorim-dev/) · [Dev.to](https://dev.to/felipeamorimdev)
+<p align="center">🇧🇷 Português | 🇺🇸 <a href="README.en.md">English</a></p>
 
-## English
+<p align="center"><img src="https://img.shields.io/badge/licen%C3%A7a-MIT-006bed?style=flat-square" alt="MIT" /> <img src="https://img.shields.io/github/last-commit/Felipe-Amorim-Dev/Felipe-Amorim-Dev?style=flat-square&color=006bed" alt="Last commit" /></p>
 
-I am a full-stack software developer focused on C#, ASP.NET Core, Angular, TypeScript, APIs, relational databases, integration and maintainable software architecture. My background also includes technical support and CAD design. Since August 2026, I have been involved in an internal data engineering assignment, working with business data and data-platform tooling. I am continuing to develop my skills in data engineering, Python, PySpark and Azure Databricks; these should not be interpreted as claims of senior-level production expertise.
+<p align="center"><a href="#sobre">Sobre</a> • <a href="#tecnologias">Tecnologias</a> • <a href="#como-rodar">Como rodar</a> • <a href="#licenca">Licença</a> • <a href="#autor">Autor</a></p>
 
-### Selected work
-| Project | Technical focus | Status |
-| --- | --- | --- |
-| [Personal Finance — Identity Service](https://github.com/Felipe-Amorim-Dev/personal-finance-identity-service) | C#, .NET, layered architecture, JWT, MySQL, outbox | In development |
-| [CAD Viewer](https://github.com/Felipe-Amorim-Dev/CAD-Viewer) | TypeScript, Three.js, reusable Web Component, 3D assets | Open-source library |
-| [ListiFy API](https://github.com/Felipe-Amorim-Dev/ListiFy.Api) + [App](https://github.com/Felipe-Amorim-Dev/ListiFy.App) | .NET API and Angular frontend | Portfolio project |
-| [Windows Integrity Guard](https://github.com/Felipe-Amorim-Dev/WindowsIntegrityGuard) | Windows service, WPF, .NET, integrity and repair workflows | Experimental / in development |
+---
 
-These personal projects demonstrate architecture decisions and evolving implementations; they are **not** presented as independently audited production systems. Corporate work is confidential and is not reproduced here.
+<a id="sobre"></a>
+## 📖 Sobre
 
-## Português
+Atuo no desenvolvimento e evolução de aplicações, APIs REST, integrações e bancos de dados. Também participo de iniciativas de Engenharia de Dados e estudo Python, PySpark e Azure Databricks.
 
-Sou desenvolvedor Full Stack com experiência em C#, .NET, Angular, TypeScript, APIs REST, integrações e bancos de dados relacionais. Minha trajetória inclui desenvolvimento front-end, suporte de TI e desenho técnico CAD. Desde agosto de 2026, participo de uma alocação interna relacionada à Engenharia de Dados. Estou aprofundando conhecimentos em Python, PySpark e Azure Databricks sem confundir formação em andamento com domínio profissional comprovado.
+## 🛠️ Tecnologias
 
-Os projetos acima são públicos, autorais ou identificados pelo respectivo contexto; funcionalidades em desenvolvimento e experiências acadêmicas não são apresentadas como soluções prontas para produção.
+![C#](https://img.shields.io/badge/C%23-006bed?style=for-the-badge) ![.NET](https://img.shields.io/badge/.NET-006bed?style=for-the-badge) ![Angular](https://img.shields.io/badge/Angular-006bed?style=for-the-badge) ![TypeScript](https://img.shields.io/badge/TypeScript-006bed?style=for-the-badge) ![SQL Server](https://img.shields.io/badge/SQL_Server-006bed?style=for-the-badge) ![MySQL](https://img.shields.io/badge/MySQL-006bed?style=for-the-badge)
 
-**Contato profissional:** [LinkedIn](https://www.linkedin.com/in/felipe-amorim-dev/).
+## 🔗 Repositórios relacionados
+
+- [ListiFy.Api](https://github.com/Felipe-Amorim-Dev/ListiFy.Api) — API ASP.NET Core e SQL Server
+- [personal-finance-identity-service](https://github.com/Felipe-Amorim-Dev/personal-finance-identity-service) — Identidade e autenticação em .NET 9
+- [CAD-Viewer](https://github.com/Felipe-Amorim-Dev/CAD-Viewer) — Web Component 3D em TypeScript
+- [WindowsIntegrityGuard](https://github.com/Felipe-Amorim-Dev/WindowsIntegrityGuard) — Verificação de integridade no Windows
+
+<a id="licenca"></a>
+## 📄 Licença
+
+Distribuído sob a [licença MIT](LICENSE).
+
+<a id="autor"></a>
+## 👤 Autor
+
+**Felipe Figueiredo Amorim** — Desenvolvedor Full Stack.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe%20Amorim-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/felipe-amorim-dev/) [![E-mail](https://img.shields.io/badge/E--mail-contato-006bed?style=for-the-badge)](mailto:felipe.f.amorim@outlook.com)
+
+<p align="center"><strong>Obrigado por visitar! / Thanks for visiting!</strong></p>
