@@ -26,6 +26,25 @@ Atuo no desenvolvimento e evolução de aplicações, APIs REST, integrações e
 - [CAD-Viewer](https://github.com/Felipe-Amorim-Dev/CAD-Viewer) — Web Component 3D em TypeScript
 - [WindowsIntegrityGuard](https://github.com/Felipe-Amorim-Dev/WindowsIntegrityGuard) — Verificação de integridade no Windows
 
+## 🧭 Portfólio por especialidade
+
+Os repositórios estão organizados para apresentar decisões de desenvolvimento e arquitetura em diferentes tipos de aplicação.
+
+| Especialidade | Projeto | Aspectos técnicos |
+| --- | --- | --- |
+| Microsserviços | [Personal Finance Identity Service](https://github.com/Felipe-Amorim-Dev/personal-finance-identity-service) | Separação Host/API/Application/Domain/Infrastructure, EF Core, MySQL, JWT e outbox |
+| APIs e integração | [API Gateway](https://github.com/Felipe-Amorim-Dev/APIGateway) | Proxy reverso com YARP, autenticação e roteamento |
+| Full Stack | [ListiFy](https://github.com/Felipe-Amorim-Dev/ListiFy.Api) | Back-end .NET, SQL Server e front-end Angular |
+| Persistência NoSQL | [ShortMyUrl](https://github.com/Felipe-Amorim-Dev/ShortMyUrl-DOTNET) | Encurtamento de links, MongoDB e Docker Compose |
+| Bibliotecas | [CAD Viewer](https://github.com/Felipe-Amorim-Dev/CAD-Viewer) | Web Components, Three.js, API pública de visualização 3D |
+| Aplicações Windows | [Windows Integrity Guard](https://github.com/Felipe-Amorim-Dev/WindowsIntegrityGuard) | .NET Worker Service, WPF, Named Pipes e fluxo SFC/DISM |
+
+### Organização dos projetos
+
+Os sistemas com front-end e back-end estão divididos em repositórios próprios, com documentação de integração entre as partes. O Windows Integrity Guard utiliza um repositório agregador com submódulos Git; o Personal Finance Platform reúne arquitetura e serviços em evolução. Cada repositório descreve suas camadas, componentes, modo de execução e tecnologias efetivamente utilizadas.
+
+Meu trabalho em sistemas corporativos é independente destes projetos públicos e não inclui publicação de código ou informações confidenciais.
+
 <a id="licenca"></a>
 ## 📄 Licença
 
